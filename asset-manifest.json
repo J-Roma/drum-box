@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/drum-box/static/js/main.f4c88fb5.chunk.js",
+    "main.js.map": "/drum-box/static/js/main.f4c88fb5.chunk.js.map",
+    "runtime-main.js": "/drum-box/static/js/runtime-main.3a69d06e.js",
+    "runtime-main.js.map": "/drum-box/static/js/runtime-main.3a69d06e.js.map",
+    "static/js/2.c5a5fe41.chunk.js": "/drum-box/static/js/2.c5a5fe41.chunk.js",
+    "static/js/2.c5a5fe41.chunk.js.map": "/drum-box/static/js/2.c5a5fe41.chunk.js.map",
+    "static/js/3.9ca1ff2d.chunk.js": "/drum-box/static/js/3.9ca1ff2d.chunk.js",
+    "static/js/3.9ca1ff2d.chunk.js.map": "/drum-box/static/js/3.9ca1ff2d.chunk.js.map",
+    "index.html": "/drum-box/index.html",
+    "static/js/2.c5a5fe41.chunk.js.LICENSE.txt": "/drum-box/static/js/2.c5a5fe41.chunk.js.LICENSE.txt",
+    "static/js/3.9ca1ff2d.chunk.js.LICENSE.txt": "/drum-box/static/js/3.9ca1ff2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a69d06e.js",
+    "static/js/2.c5a5fe41.chunk.js",
+    "static/js/main.f4c88fb5.chunk.js"
+  ]
+}
