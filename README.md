@@ -1,7 +1,3 @@
-# App Caja de Musica
-
-Para ver el app : 
-
  # Proyecto - :computer: App Caja de Musica :atom:
 
 Caja de musica, propuesta por freecodecamp
